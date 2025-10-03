@@ -10,20 +10,20 @@ I started this project to strengthen my knowledge of **C++**, a versatile and hi
 ## 📂 Repository Structure
 The repository is organized into two main directories:
 
-├── E/ # Warm-up Exercises
-│ ├── 1/ # Chapter 1 exercises
-│ │ ├── E1.1.cpp # Solution source file
-│ │ ├── E1.1 # Executable
-│ │ └── data.txt # (optional) Input/output file
-│ ├── 2/
-│ └── ...
-│
-├── P/ # Programming Problems
-│ ├── 1/ # Chapter 1 problems
-│ ├── 2/
-│ └── ...
-│
-└── README.md
+├── E/ # Warm-up Exercises  
+│ ├── 1/ # Chapter 1 exercises  
+│ │ ├── E1.1.cpp # Solution source file  
+│ │ ├── E1.1 # Executable  
+│ │ └── data.txt # (optional) Input/output file  
+│ ├── 2/  
+│ └── ...  
+│  
+├── P/ # Programming Problems  
+│ ├── 1/ # Chapter 1 problems  
+│ ├── 2/  
+│ └── ...  
+│  
+└── README.md  
 
 
 - `E/` → Warm-up exercises (organized by chapter)  
