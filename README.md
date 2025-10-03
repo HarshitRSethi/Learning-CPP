@@ -42,14 +42,14 @@ Example for an exercise:
 cd E/1
 g++ ex1.cpp -o ex1
 ./ex1
-```bash
+```
 
 Example for a problem:
 ```bash
 cd P/2
 g++ problem2.cpp -o problem2
 ./problem2
-```bash
+```
 
 ## 🛠️ Requirements
 Before running the programs, make sure you have:
