@@ -1,0 +1,1 @@
+Write a C++ program that reads data from a file whose name is input by the user, and that outputs the first word following each of the first three commas in the file. For example, if the file contains the text of this problem, then the program would output:
